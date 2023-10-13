@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "enter number n1 n2 n3 n4"
 read n1
 read n2
